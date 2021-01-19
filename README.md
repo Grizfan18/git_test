@@ -1,1 +1,1 @@
-https://firstinterstatebank--corydev.my.salesforce.com/sfc/p/#17000000E6YR/a/170000000BDL/jhdus6yiTqDuxGB1KEF3PzF0MpRAn69yRmuk_Xh0WXI
+Set WshShell = WScript.CreateObject("WScript.Shell") While True WScript.Sleep 600000 WShell.SendKeys "{UP}" WShell.SendKeys "{DOWN}" Wend
